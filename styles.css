@@ -8,7 +8,7 @@ html, body {
 }
 
 header, footer {
-	background-color: DarkMagenta; 
+	background-color: rgb(0, 67, 200); 
 	color: White; 
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -16,7 +16,7 @@ header, footer {
 }
 
 .centered { 
-	margin-left: 225px;
+	margin-left: 325px;
 	margin-bottom: 10px;
 
 
@@ -47,7 +47,7 @@ ul li {
 }
 
 main { 
-	margin-left: 300px;
+	margin-left: 450px;
 
 }
 
@@ -68,6 +68,7 @@ article {
 h2 {
 	margin-bottom: 20px;
 	color: ForestGreen;
+	text-decoration: underline;
 
 }
 
@@ -78,6 +79,11 @@ h3 {
 
 p {
 	color: black;
+
+}
+
+.endlist {
+	color: Black;
 
 }
 
